@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Matthew Podwysocki is a Principal Software Engineer at [Microsoft App Center](https://azure.microsoft.com/en-us/services/app-center/) and self described Open Sourcerer named λ Calrissian.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Matthew streams on multiple channels such as:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- [Twitch](https://twitch.tv/bluerthanbluefalcon)
+- [YouTube](https://www.youtube.com/user/matthewpodwysocki)
 
+He has worked on the following projects:
 
-[jekyll-organization]: https://github.com/jekyll
+- [Reactive Extensions](http://reactivex.io)
+  - [Reactive Extensions for .NET](https://github.com/dotnet/reactive)
+  - [Reactive Extensions for JavaScript (RxJS)](https://github.com/reactivex/rxjs)
+  - [Interactive Extensions for JavaScript (IxJS)](https://github.com/reactivex/ixjs)
+- [React Native](https://github.com/facebook/react-native)
+  - [Reactive Native Windows](https://github.com/Microsoft/react-native-windows)
+  - [Yoga](https://github.com/facebook/yoga)
+- [Thali Project](http://thaliproject.org/)

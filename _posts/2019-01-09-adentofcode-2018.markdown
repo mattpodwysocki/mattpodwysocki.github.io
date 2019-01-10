@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Reactive Extensions 2018 Advent of Code"
+date:   2019-01-09 16:44:47 -0500
+categories: rxjs twitch youtube reactive
+---
+I decided last year to create an Advent of Code for [RxJS](https://github.com/reactivex/rxjs) to teach a new piece of RxJS each day.  I created a GitHub repo [rxjs-advent-2018](https://github.com/reactivex/rxjs-advent-2018) which has a daily recap of what we covered each day.  In addition to putting the code in GitHub, I'm also streaming on [Twitch](https://twitch.tv/bluerthanbluefalcon) and later export the videos to [YouTube](https://www.youtube.com/user/matthewpodwysocki).  Follow along for further updates!
