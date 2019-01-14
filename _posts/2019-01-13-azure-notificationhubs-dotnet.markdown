@@ -2,7 +2,7 @@
 layout: post
 title:  "Azure Notification Hubs for .NET Now Open Source"
 date:   2019-01-13 21:24:47 -0500
-categories: azure notificationhubs push push-notifications
+categories: azure notificationhubs push push-notifications dotnet
 ---
 
 Recently, my team at Microsoft, App Center, has open source our .NET SDK for Azure Notification Hubs which is now available on [GitHub]((https://github.com/azure/azure-notificationhubs-dotnet)) and [NuGet](https://www.nuget.org/packages/Microsoft.Azure.NotificationHubs/).  The latest release includes support for [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard) as well as support for [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) in addition to the support for the deprecated [Google Cloud Messaging](https://developers.google.com/cloud-messaging/) APIs.
